@@ -1,0 +1,26 @@
+body{
+    background-color:azure !important;
+}
+.input-div{
+    display: inline-block;
+    margin: 20px;
+}
+.box{
+    background-color: #1acb9a;
+    width: 100%;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 35px !important;
+    font-weight: bold !important;
+    width: 500px;
+    border-radius: 10px !important;
+}
+label{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
